@@ -96,7 +96,7 @@ case-study-5-docs-qa-assistant/
 
 ### 1. Clone the repository
 
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Siddu-04-15/docs-qa-assistant
 cd case-study-5-docs-qa-assistant
 
 ### 2. Configure the backend
